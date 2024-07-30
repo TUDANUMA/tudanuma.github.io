@@ -453,21 +453,29 @@ header {
 .slick-loading .slick-slide{visibility:hidden}
 .slick-vertical .slick-slide{display:block;height:auto;border:1px solid transparent}
 
+/* Profile Style */
+
+#profile {
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #eee;
+}
 
 /* Qualifications Style */
 
-#featured {
+#qualifications {
   padding-left: 60px;
   padding-right: 60px;
   padding-bottom: 80px;
   border-bottom: 1px solid #eee;
 }
 
-#featured .section-heading {
+#qualifications .section-heading {
   margin-right: 20%;
 }
 
-#featured .content-section {
+#qualifications .content-section {
   display: inline-block;
   position: relative;
 }
@@ -475,21 +483,13 @@ header {
 
 /* Career Style */
 
-#projects {
+#career {
   padding-left: 60px;
   padding-right: 60px;
   padding-bottom: 50px;
   border-bottom: 1px solid #eee;
 }
 
-/* Video Style */
-
-#video {
-  padding-left: 60px;
-  padding-right: 60px;
-  padding-bottom: 50px;
-  border-bottom: 1px solid #eee;
-}
 
 /* Blog Style */
 
@@ -497,6 +497,7 @@ header {
   padding-left: 60px;
   padding-right: 60px;
   padding-bottom: 80px;
+  border-bottom: 1px solid #eee;
 }
 
 #blog .tabs {
