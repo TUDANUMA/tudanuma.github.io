@@ -482,7 +482,14 @@ header {
   border-bottom: 1px solid #eee;
 }
 
+/* Video Style */
 
+#video {
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #eee;
+}
 
 /* Blog Style */
 
